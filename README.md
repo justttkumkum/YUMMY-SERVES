@@ -76,7 +76,7 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 # Contact
 If you have any questions or suggestions, feel free to reach out to the me .
 
-- Name: ANJALI
-- Email: jhaanjali0807@gmail.com
+- Name: KUMKUM
+- Email: kumkumkaushik94@gmail.com
   
 Thank you for using our TastyBites application!
